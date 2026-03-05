@@ -1,0 +1,50 @@
+/*
+    CSS---> Cascading Style Sheets
+    CSS ---> THREE TYPES
+    1. INLINE CSS
+    2. INTERNAL CSS
+    3. EXTERNAL CSS
+
+    PROPERTIES AND VALUES
+    :
+COLOR:GREEN,BLACK,RED,BLUE
+SIZE::-ms-value
+POSITION::-ms-value
+BORDER::-ms-value
+BACKGROUND:MVALUES
+ANIMATIONS:VALUES
+
+
+INLINE CSS
+=======================
+INSIDE HTML WIHT IN THE TAG---->ATTRIBUTE---->STYLE
+
+internal CSS
+=======================
+INSDE HTML BUT INSIDE STYLE TAG------>HEAD TAG
+
+
+EXTERNAL CSS
+=======================
+INSIDE SEPARATE FILE WITH .CSS EXTENSION
+WE WILL LINK IN HTML FILE USING LINK TAG-----> LINK TAG IS DECLARED INSIDE THE HEAD TAG 
+JUST LIKE HOW STYLE TAG IS DECLARED INSIDE THE HEAD TAG
+*/
+.secondheader{
+                color: #f73f0c;
+                color: #f73f0c;
+                border: 2px solid #d8ed1700;
+                background-color: #eaea18;
+            }
+
+            #p1{
+                color: #f73f0c;
+                border: 2px solid #d8ed1700;
+                background-color: #eaea18;
+            }
+             #p2{
+                color: #f73f0c;
+                border: 2px solid #d8ed1700;
+                background-color: #eaea18;
+            }
+
