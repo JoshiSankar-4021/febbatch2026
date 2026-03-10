@@ -1,0 +1,29 @@
+/*
+
+CSS===>CASECADING STYLE SHEET
+1. IN-LINE CSS
+2. INTERNAL CSS
+3. EXTERNAL CSS
+*/
+
+.heading2{
+                color:oklab(82.376% -0.21849 0.16665);
+                border:2px dotted black;
+                background-color: blue;
+            }
+            #heading4{
+            color:#ff0000;
+            border:2px dotted black;
+            background-color: rgb(117, 9, 100);
+            }
+            p{
+                color:green;
+                border:2px solid black;
+                background-color:yellow;
+            }
+
+            *{
+                color:green;
+                border:2px solid black;
+                background-color:yellow;
+            }
